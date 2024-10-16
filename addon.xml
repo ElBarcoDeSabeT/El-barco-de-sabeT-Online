@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ElBarcoDeSabetOnline" version="0.2.4" name="El Barco de Sabet Online" provider-name="Sabet">
+<addon id="plugin.video.ElBarcoDeSabetOnline" version="1.0.0" name="El Barco de Sabet Online" provider-name="Sabet">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
