@@ -1,0 +1,1 @@
+Addon cerrado permanentemente.
